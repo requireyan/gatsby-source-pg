@@ -8,52 +8,53 @@ Graphile ecosystem. Find out
 
 - Chad Furman
 - Storyscript
-- Surge.io
 - Postlight
+- Surge
 
 ## Leaders
 
 - Joe Dennis
-- domonda
-- Robert Claypool
-- James Allain
-- Jack Dinker
-- Nigel Taylor
-- DocIQ
-- Principia Mentis
 - Qwick
-- Partners in School Innovation
+- domonda
+- Jack Dinker
+- DocIQ
+- Robert Claypool
+- Nigel Taylor
 - Sterblue
 - HR-ON
-- Ian Stewart
 - Dovetail
+- Ian Stewart
 - Jacob Gillespie
+- Politics Rewired
+- Cameron Ellis
+- Luxor Labs
+- sunroominc
+- Qloo
 
 ## Supporters
 
-- Daniel Einspanjer
+- Simon Elliott
 - Sam Levin
-- stlbucket
 - Matt Bretl
-- purge
+- Kevin
 - Chris Watland
-- James Rascoe
-- Mark Lipscombe
-- Michel Pelletier
-- Mark Rapoza
+- Mark
 - innovation.rocks
 - Daniel Woelfel
 - Philipp Litzenberger
-- apoland
+- Andrew Poland
+- James Rascoe
 - Bjørn Michelsen
-- CJ
-- Ben Botwin
-- Cameron Ellis
+- CJ Lazell
 - Mansoor Razzaq
-- rcy
-- Borut Jures
-- themrhead
+- Ryan Yeske
 - Keith Layne
 - Olli Selamaa
 - qoby
 - Paul Melnikow
+- Stéphane Klein
+- Dani Kenan
+- Vinzenz Weber
+- Jimmy Liu
+- Splitgraph
+- Zippr.io
